@@ -14,6 +14,20 @@ As a result you might encounter the following error while running your tests:
 
 This library is designed to help you with mocking such imports so that you don't have any errors while running your tests.
 
+## Instalation
+
+Via yarn:
+
+`yarn add -D vite-mock-require`
+
+Via npm: 
+
+`npm install -D vite-mock-require`
+
+Via pnpm:
+
+`pnpm add -D vite-mock-require`
+
 ## Usage
 
 Library provides just two methods:
