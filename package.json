@@ -1,0 +1,23 @@
+{
+  "name": "vitest-mock-require",
+  "version": "1.0.0",
+  "description": "Library that mocks commonjs 'require' calls in your testing environment for Vitest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wijionejs/vitest-mock-require"
+  },
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "vitest",
+    "commonjs",
+    "require",
+    "mock",
+    "error"
+  ],
+  "author": "Volodymyr Baranchuk <crackhead199701@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimatch": "^9.0.3"
+  }
+}
