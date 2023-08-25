@@ -1,4 +1,4 @@
-# vite-mock-require
+# vitest-mock-require
 
 Library that mocks commonjs 'require' calls in your testing environment for Vitest.
 
@@ -18,15 +18,15 @@ This library is designed to help you with mocking such imports so that you don't
 
 Via yarn:
 
-`yarn add -D vite-mock-require`
+`yarn add -D vitest-mock-require`
 
 Via npm: 
 
-`npm install -D vite-mock-require`
+`npm install -D vitest-mock-require`
 
 Via pnpm:
 
-`pnpm add -D vite-mock-require`
+`pnpm add -D vitest-mock-require`
 
 ## Usage
 
